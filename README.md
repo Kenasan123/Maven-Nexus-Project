@@ -1,2 +1,2 @@
-# Maven-Nexus-Project
+# maven-nexus-project
 Maven-Nexus-Project
